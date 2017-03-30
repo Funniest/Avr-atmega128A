@@ -6,7 +6,7 @@
 
 74LS373의 내부 구조는 아래 그림과 같습니다.
 
-![Alt text]()
+![Alt text](https://github.com/Funniest/Avr-atmega128A/blob/master/74LS373/img/struct.PNG)
 
 위의 그림과 같이 LE에 HIGH신호를 주면 Data들이 들어갈수 있는 상태로 바뀌게 됩니다.
 
